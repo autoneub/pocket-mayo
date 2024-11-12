@@ -1,0 +1,11 @@
+!
+! Title: Pocket-Mayo MinePlex Allow list
+! Description: Allowlist for MinePlex
+! Version: 1.0
+!
+!
+!
+! MinePlex
+!
+||mineplex.com^$important
+||inpvp.net^$important
