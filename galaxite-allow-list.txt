@@ -1,0 +1,9 @@
+!
+! Title: Pocket-Mayo Galaxite Allow List
+! Description: Whitelist Galaxite Server
+! Version: 1.0
+!
+!
+! Galaxite
+!
+||galaxite.net^$important
