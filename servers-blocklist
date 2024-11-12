@@ -1,0 +1,46 @@
+!
+! Title: Pocket-Mayo MS Blocklist
+! Description: Blocklist of known blocklist servers
+! Version: 1.0
+!
+!
+! Source name: Known Minecraft Servers
+!
+! Title: Known Minecraft Servers (Full)
+! Updated: 2024-11-12T00:09:20Z
+! Expires: 1 day (update frequency)
+! Homepage: 
+! License: 
+! Source: 
+!
+!
+!
+! The Hive
+!
+||hivebedrock.network^$important
+!
+!
+! MinePlex
+!
+||mineplex.com^$important
+||inpvp.net^$important
+!
+!
+! Cubecraft
+!
+||cubecraft.net^$important
+!
+!
+!LifeBoat
+!
+||lbsg.net^$important
+||mco.lbsg.net^$important
+!
+!
+! Galaxite
+!
+||galaxite.net^$important
+!
+!
+! Enchanted
+||play.enchanted.gg^$important
