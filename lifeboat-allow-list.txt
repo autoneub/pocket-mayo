@@ -1,0 +1,12 @@
+!
+! Title: Pocket-Mayo LifeBoat Allow List
+! Description: Whitelist the Lifeboat Server
+! Version: 1.0
+!
+!
+!
+
+!LifeBoat
+!
+||lbsg.net^$important
+||mco.lbsg.net^$important
