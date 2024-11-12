@@ -1,0 +1,8 @@
+!
+! Title: Pocket-Mayo Enchanted Allow List
+! Description: Whitelist Enchanted Servers
+! Version: 1.0
+!
+!
+! Enchanted
+||play.enchanted.gg^$important
