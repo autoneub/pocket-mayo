@@ -1,0 +1,1 @@
+This is just a repository of blocklist and whitelist files for a few Minecraft servers. These were created to give my Home Assistant easy controls to block and unblock individual servers via AdGuard Home
