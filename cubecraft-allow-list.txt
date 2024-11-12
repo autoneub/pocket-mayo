@@ -1,0 +1,10 @@
+!
+! Title: Pocket-Mayo CubeCraft Allow List
+! Description: Allow list CubeCraft Servers
+! Version: 1.0
+!
+!
+!
+! Cubecraft
+!
+||cubecraft.net^$important
