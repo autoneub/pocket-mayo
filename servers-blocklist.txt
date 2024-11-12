@@ -4,16 +4,6 @@
 ! Version: 1.0
 !
 !
-! Source name: Known Minecraft Servers
-!
-! Title: Known Minecraft Servers (Full)
-! Updated: 2024-11-12T00:09:20Z
-! Expires: 1 day (update frequency)
-! Homepage: 
-! License: 
-! Source: 
-!
-!
 !
 ! The Hive
 !
