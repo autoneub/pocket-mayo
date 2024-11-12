@@ -25,6 +25,7 @@
 !
 ||lbsg.net^$important
 ||mco.lbsg.net^$important
+||na-west.lifeboat.games^$important
 !
 !
 ! Galaxite
