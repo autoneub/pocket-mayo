@@ -1,0 +1,10 @@
+!
+! Title: Pocket-Mayo The Hive Allow List
+! Description: Allow list of the Hive servers
+! Version: 1.0
+!
+!
+!
+! The Hive
+!
+||hivebedrock.network^$important
