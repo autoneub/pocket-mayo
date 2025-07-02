@@ -1,0 +1,10 @@
+!
+! Title: Pocket-Mayo DonutSMP Allow List
+! Description: Allow list of the DonutSMP servers
+! Version: 1.0
+!
+!
+!
+! DonutSMP
+!
+||donutsmp.net^$important
