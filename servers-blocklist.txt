@@ -35,3 +35,10 @@
 !
 ! Enchanted
 ||play.enchanted.gg^$important
+!
+! DonutSMP
+!
+!
+! DonutSMP
+!
+||donutsmp.net^$important
