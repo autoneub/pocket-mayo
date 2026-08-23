@@ -42,3 +42,12 @@
 ! DonutSMP
 !
 ||donutsmp.net^$important
+!
+!
+!
+! MegaSMP
+!
+!
+! MegaSMP
+!
+||play.megasmp.gg^$important
