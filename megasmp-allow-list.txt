@@ -1,0 +1,9 @@
+!Title: Pocket-Mayo MegaSMP Allow List
+! Description: Allow list of the MegaSMP servers
+! Version: 1.0
+!
+!
+!
+! MegaSMP
+!
+||play.megasmp.gg^$important
