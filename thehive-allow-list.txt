@@ -8,3 +8,5 @@
 ! The Hive
 !
 ||hivebedrock.network^$important
+||geo.hivebedrock.cloud^$important
+||cdn.playhive.com^$important
