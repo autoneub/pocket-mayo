@@ -10,3 +10,4 @@
 ||hivebedrock.network^$important
 ||geo.hivebedrock.cloud^$important
 ||cdn.playhive.com^$important
+||20ca2.playfabapi.com^$important
